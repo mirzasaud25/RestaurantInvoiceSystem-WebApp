@@ -1,0 +1,27 @@
+=========Receipt=========
+Restaurant :Peace FastFood
+Address :SurjaniTown Karachi
+Invoice No :INV-1771939426661
+Date :2026-02-24T18:23:46.690735600
+Cashier :Mirza Saud
+COunter No :2
+
+===================================
+Items         Qty   Price
+--------------------------------------
+Beef Burger    5   250.0
+--------------------------------------
+TotalItems    1     Net Amount 1250.0
+--------------------------------------
+Subtotal  :1250.0
+Tax 5%    :62.5
+You Saved :0.0
+Final Amount :1312.5
+=========================================
+Cash Paid :5000.0   Cash Back :3687.5
+
+Thank You For Visting..
+Contact us:032122325215
+--------------------------
+Developed by : MSH-Version #2
+BUILD SUCCESSFUL (total time: 36 seconds)
