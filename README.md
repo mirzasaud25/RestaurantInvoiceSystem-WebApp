@@ -1,17 +1,17 @@
 # RestaurantInvoiceSystem-WebApp
-Web-based Restaurant POS System with receipt generation.
 
-A web-based restaurant billing system that allows order processing, receipt generation, and payment handling.
+A web-based restaurant billing system that allows order processing, receipt generation, and payment validation.
 
 ## Features
 - Order management
-- Receipt generation
 - Tax and discount calculation
+- Receipt generation
 - Payment validation
+
 
   ## Screenshot
 
-  ![POS UI](pos-ui.png)
+  ![POS UI](screenshot/pos-ui.png)
 
   ## Live Demo
   https://invoice-pos--mirzasaud566.replit.app/
