@@ -9,4 +9,9 @@ A web-based restaurant billing system that allows order processing, receipt gene
 - Tax and discount calculation
 - Payment validation
 
+  ## Screenshot
+
+  ![POS UI](pos-ui.png)
+  
+
 
