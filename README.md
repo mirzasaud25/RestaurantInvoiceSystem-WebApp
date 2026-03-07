@@ -8,7 +8,7 @@ A web-based restaurant billing system that allows order processing, receipt gene
 - Receipt generation
 - Payment validation
   
-## Screenshot
+## Screenshots
 
  ![POS UI](pos-ui.png)
 
