@@ -2,17 +2,17 @@
 
 A web-based restaurant billing system that allows order processing, receipt generation, and payment validation.
 
-## Features
+# Features
 - Order management
 - Tax and discount calculation
 - Receipt generation
 - Payment validation
   
-## Screenshots
+# Screenshots
 
  ![POS UI](pos-ui.png)
 
-## Live Demo
+# Live Demo
 https://invoice-pos--mirzasaud566.replit.app/
 
 
